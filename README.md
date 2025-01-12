@@ -7,7 +7,7 @@ Have you ever wondered how to manipulate strings to print messages? this is our 
 Even when Python language is very intuitive the truth is that a great number of programmers still struggle to understand its tools and functionalities to exploit its full potential. Printing strings may look easy but, depending on the case, it is required to use a method or format that will provide the most efficient result.
 This Program and future versions will show you how to use different techniques to print a message, using the well-known case of "Hello World!" even when the output is the same for all of them you must recognize 
 
-Here we provide a video explaining the techniques used 
+Here we provide a YouTube video explaining the techniques used 
 [Video for Running Demo ](https://youtu.be/cDV2goH3n_4)
 
 # Development Environment
