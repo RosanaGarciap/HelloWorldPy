@@ -19,5 +19,5 @@ Here we provide a video explaining the techniques used
 # Documentation Websites
 
 If you want to find more documentation for this content we recommend the following websites:
-* [Python Print Variable, How to Print a String and Variable]([http://url.link.goes.here](https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/))
+* [Python Print Variable, How to Print a String and Variable](https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/)
 * [Real Python](https://realpython.com/python-f-strings/)
