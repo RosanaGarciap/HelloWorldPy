@@ -5,7 +5,7 @@
 
 Have you ever wondered how to manipulate strings to print messages? this is our goal with HelloWorldPY
 
-Even when Python language is very intuitive the truth is that a great number of programmers still struggle to understand how to exploit its potential. Depending on the case, it is required to understand which tools or format will provide the most efficient result.
+Even when Python language is very intuitive the truth is that a great number of programmers still struggle to understand its tools and functionalities to exploit its full potential. Depending on the case, it is required to understand which tools or format will provide the most efficient result.
 This Program and future versions will show you how to use different techniques to print a message, using the well-known case of "Hello World!" even when the output is the same for all of them you must recognize 
 
 Here we provide a video explaining the techniques used 
